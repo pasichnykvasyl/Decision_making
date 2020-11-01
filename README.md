@@ -43,3 +43,20 @@ python3 main.py lab3_variant_20.txt
 
 ### Result
 ![result3](https://user-images.githubusercontent.com/38556518/97306037-8f9b9100-1866-11eb-8a21-ecfc1349da64.png)
+
+## Lab3 (Example)
+```bash
+python3 main.py lab4.txt
+```
+### lab4.txt:
+```
+Боінг;Туполєв;Airbus;Бомбардир;Альбатрос
+Магістральна дальність:0.2;9;6;10;8;7
+Вмістимість:0.15;7;10;10;6;8
+Розхід топлива V:0.25;8;7;9;9;8
+Максимальна швидкість:0.15;10;8;9;8;7
+Вартість експлуатації:0.25;6;8;9;10;8
+```
+
+### Result
+![result3](https://user-images.githubusercontent.com/38556518/97814993-c83ad080-1c93-11eb-872c-e273741aa2dd.png)
