@@ -44,7 +44,7 @@ python3 main.py lab3_variant_20.txt
 ### Result
 ![result3](https://user-images.githubusercontent.com/38556518/97306037-8f9b9100-1866-11eb-8a21-ecfc1349da64.png)
 
-## Lab3 (Example)
+## Lab4 (Example)
 ```bash
 python3 main.py lab4.txt
 ```
