@@ -59,4 +59,22 @@ python3 main.py lab4.txt
 ```
 
 ### Result
-![result3](https://user-images.githubusercontent.com/38556518/97814993-c83ad080-1c93-11eb-872c-e273741aa2dd.png)
+![result4](https://user-images.githubusercontent.com/38556518/97814993-c83ad080-1c93-11eb-872c-e273741aa2dd.png)
+
+## Lab5 (Example)
+```bash
+python3 main.py lab5.txt
+```
+### lab5.txt:
+```
+8;12;15;10;8
+11;13;16;14;17
+10;15;12;16;13
+10;8;11;13;16
+12;14;17;11;9
+```
+
+### Result
+![result5_1](https://user-images.githubusercontent.com/38556518/98727691-ffe6fe00-23a0-11eb-8ed3-9ef252298cf7.png)
+![result5_2](https://user-images.githubusercontent.com/38556518/98727749-18571880-23a1-11eb-8204-eed4f9baecfe.png)
+![result5_3](https://user-images.githubusercontent.com/38556518/98727770-24db7100-23a1-11eb-8643-2e71339bdd5b.png)
